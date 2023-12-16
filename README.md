@@ -1,3 +1,3 @@
 # Community-Git
 
-Sagar Pal SDET
+Sagar Pal SDET Intern
