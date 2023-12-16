@@ -1,0 +1,50 @@
+[33mcommit 108c65dbf79250bb4fe5aa6fed752d4cbdb78f45[m[33m ([m[1;36mHEAD -> [m[1;32mtemp[m[33m)[m
+Author: Sagar <sagarpal1909@gmail.com>
+Date:   Sun Dec 17 01:56:10 2023 +0530
+
+    4
+
+[33mcommit 0bb0d7ac5a80c80b452f7dab75df0607f2349ffd[m
+Author: Sagar <sagarpal1909@gmail.com>
+Date:   Sun Dec 17 01:55:52 2023 +0530
+
+    3
+
+[33mcommit f26d5980aa43256e5203d2b5dca8c9ad37df1062[m
+Author: Sagar <sagarpal1909@gmail.com>
+Date:   Sun Dec 17 01:55:18 2023 +0530
+
+    2
+
+[33mcommit bd9b95b25d8ee32550c18f6820294e22ba1e21c5[m
+Author: Sagar <sagarpal1909@gmail.com>
+Date:   Sun Dec 17 01:54:12 2023 +0530
+
+    1
+
+[33mcommit 827a5708e253d82d85ed5602f5d0d19be58ef4d0[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Sagar Pal <104813896+sagarpal1909@users.noreply.github.com>
+Date:   Sun Dec 17 01:45:29 2023 +0530
+
+    Update README.md
+
+[33mcommit 5f4bbe01dc41658c27c2e25db441a2f46fba9598[m
+Merge: aa7c90f a1d376a
+Author: Sagar Pal <104813896+sagarpal1909@users.noreply.github.com>
+Date:   Sun Dec 17 01:34:27 2023 +0530
+
+    Merge pull request #1 from sagar-crm/sagar
+    
+    Sagar added a comment
+
+[33mcommit a1d376ac01a8232e32b46e6b14241596a623c554[m[33m ([m[1;31morigin/sagar[m[33m, [m[1;32msagar[m[33m)[m
+Author: Sagar <sagarpal1909@gmail.com>
+Date:   Sun Dec 17 01:16:26 2023 +0530
+
+    Sagar added a comment
+
+[33mcommit aa7c90f86fccb62513d4a6ca629c5328ffda4a4f[m
+Author: Sagar Pal <104813896+sagarpal1909@users.noreply.github.com>
+Date:   Sun Dec 17 00:57:39 2023 +0530
+
+    Initial commit
